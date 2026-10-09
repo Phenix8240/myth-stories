@@ -2,7 +2,7 @@ import { useState, useEffect, useRef } from "react";
 import { useNavigate } from "react-router-dom";
 import maakaliImg from "./images/maakali.jpg";
 import maakali from "./images/kali.jpg";
-//  import API_BASE_URL from './api.js';
+ import API_BASE_URL from './api.js';
 
 /* ===== Import the other images here (uncomment each after adding the file) ===== */
 import taraImg from "./images/tara.jpg";
